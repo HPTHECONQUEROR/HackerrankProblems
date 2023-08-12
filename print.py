@@ -1,0 +1,5 @@
+print("HARI PRASATH")
+print("%"*10)
+o='hari '.lower()
+p='prasath'.upper()
+print(o +p)
